@@ -36,6 +36,7 @@
     <a href = "https://mail.google.com/mail/umarqulovmuhammad1701@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
+## 💻 Last month's activity
 <div align="center">
     <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=MuhammadUmarqulov&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
   </div>
